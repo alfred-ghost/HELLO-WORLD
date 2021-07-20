@@ -1,2 +1,3 @@
 # HELLO-WORLD
 Learning to use github...
+This is my first time learning github and I find it useful but a little hard to get accustomed with this environment.
